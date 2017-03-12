@@ -10,6 +10,7 @@ namespace VS17repotest
     {
         static void Main(string[] args)
         {
+            int a = 0;
         }
     }
 }
